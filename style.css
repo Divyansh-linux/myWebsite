@@ -183,7 +183,7 @@ header {
     margin-bottom: 10px;
 }
 .edu{
-    padding-top: 100;
+    padding-top: 100px;
     color: rgb(38, 94, 199);
     margin-left: 10px;
     font-size: 24px;
@@ -191,58 +191,219 @@ header {
 .refer{
     margin-left: 10px;
 }
-#d1{
+#d1,#d2,#d3{
     margin-left: 10px;
     margin-top: 10px;
     color: darkgray;
     font-size: 18px;
-}
-#d2{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: darkgray;
-    font-size: 18px;
-}
-#d3{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: darkgray;
-    font-size: 18px;
-}
-#date1{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(161, 23, 23);
-    font-size: 20px;
-}
-#date2{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(161, 23, 23);
-    font-size: 20px;
-}
-#date3{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(161, 23, 23);
-    font-size: 20px;
-}
-#deg{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(39, 35, 35);
-    font-size: 14px;
-}
-#deg2{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(39, 35, 35);
-    font-size: 14px;
-}
-#deg3{
-    margin-left: 10px;
-    margin-top: 10px;
-    color: rgb(39, 35, 35);
-    font-size: 14px;
 }
 
+
+#date1,#date2,#date3{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(161, 23, 23);
+    font-size: 20px;
+}
+
+#deg,#deg2,#deg3{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgb(39, 35, 35);
+    font-size: 14px;
+}
+.rdjachieve{
+
+    background-color: rgb(74, 77, 80);
+    margin-top: 150px;
+    padding-bottom: 25px;
+ 
+}
+
+.peter{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.achievement{
+    float: left;
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+.ach{
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    font-size: 24px;
+}
+#ach1,#ach2,#ach3{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#dance1,#dance2,#dance3{
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: rgb(199, 185, 185);
+    font-size: 16px;
+}
+.servicepart{
+    padding-top: 100px;
+}
+.servicea{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    padding: 10px;
+}
+.serviceE{
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.dimention2{
+    display: grid;
+    padding: 20px;
+    margin-left: 20px;
+    grid-template-columns: repeat(5, 1fr);
+    text-align: center;
+    column-gap: 5px;
+}
+.s1{
+    height: 235px;
+    width: 217px;
+}
+.serbtn{
+    padding: 15px;
+    margin: 10px;
+    background-color: #e6dede;
+    box-shadow: #747474;
+}
+.mmb{
+    padding-top: 100px;
+    background-color: rgb(74, 77, 80);
+}
+.man{
+    display: grid;
+    padding: 20px;
+    margin-left: 70px;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    column-gap: 25px;   
+}
+.johnd{
+    width: 250px;
+    height: 200px;
+    background-color: white;
+    margin-top: -80px;
+}
+.johndo{
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#johny{
+    text-align: right;
+    padding: 10px;
+}
+.ii{
+    float: left;
+}
+.logo{
+    display: grid;
+    padding: 50px;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 0px;  
+}
+.backarea{
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    display: flex;
+}
+.query{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(24, 109, 236);
+}
+.loc{
+    padding-top: 20px;
+}
+.addr{
+    padding-top: 40px;
+}
+.sepr{
+    margin-top: 40px;
+    width: 50%;
+    float: left;
+}
+.callus{
+    padding-top: 70px;
+    color: rgb(24, 109, 236);
+}
+.contact{
+    padding-top:60px ;
+}
+.input{
+    float: right;
+    background-color: rgb(29, 37, 148);
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    margin-left: 100px;
+}
+.input1{
+    padding: 10px;
+}
+.yourname{
+    margin-left: -50px;
+    padding: 20px;
+    width: 300px;
+}
+.email1{
+    margin-left: -50px;
+    padding: 20px;
+    width:300px;
+}
+.message{
+    margin-left: -50px;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+  
+}
+.finalcon{
+    background-color: #2b54a1;
+    padding: 230px;
+    padding-top: 200px;
+}
+.final{
+    text-align: center;
+    margin-right: 20px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.socialsep{
+    padding: 1px;
+    color: #666;
+}
+.followicon{
+    display: flex;
+    padding: 50px;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 0px;
+}
+.i1{
+    height: 150px;
+    width: 150px;
+}
+.i2{
+    padding-left: 60px;
+}
